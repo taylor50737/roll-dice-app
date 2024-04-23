@@ -1,4 +1,4 @@
-# first_app
+# Flutter & Dart Basic
 
 A new Flutter project.
 
